@@ -1,0 +1,21 @@
+{
+    "name": "pastel-night",
+    "displayName": "Pastel Night",
+    "description": "🌃 Night vibes with pastel lights",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pastel Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pastel-night.json"
+            }
+        ]
+    }
+}
