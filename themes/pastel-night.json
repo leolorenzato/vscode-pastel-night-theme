@@ -187,6 +187,14 @@
         "gitDecoration.renamedResourceForeground": "#83acee",
         "gitDecoration.conflictingResourceForeground": "#efab81",
         "gitDecoration.ignoredResourceForeground": "#65697d",
+        "scmGraph.historyItemRefColor": "#83acee",
+        "scmGraph.historyItemBaseRefColor": "#efab81",
+        "scmGraph.historyItemRemoteRefColor": "#abb4f2",
+        "scmGraph.foreground1": "#edd7a6",
+        "scmGraph.foreground2": "#f5c2e7",
+        "scmGraph.foreground3": "#9ad395",
+        "scmGraph.foreground4": "#abb4f2",
+        "scmGraph.foreground5": "#8cd6ca",
         "diffEditor.insertedTextBackground": "#9ad39526",
         "diffEditor.removedTextBackground": "#e783a026",
         "diffEditor.insertedLineBackground": "#9ad39526",
@@ -210,11 +218,100 @@
         "commandCenter.border": "#0c0c12",
         "commandCenter.inactiveBorder": "#0c0c12",
         "commandCenter.activeBorder": "#0c0c12",
-        "extensionButton.prominentBackground": "#c0c7e1",
-        "extensionButton.prominentForeground": "#1e1e28",
+        "extensionButton.prominentBackground": "#1e1e28",
+        "extensionButton.prominentForeground": "#c0c7e1",
         "button.secondaryBorder": "#0c0c12"
     },
     "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "type": {
+            "foreground": "#8cd6ca"
+        },
+        "function": {
+            "foreground": "#edd7a6"
+        },
+        "function.definition": {
+            "foreground": "#edd7a6"
+        },
+        "class": {
+            "foreground": "#8cd6ca"
+        },
+        "class.definition": {
+            "foreground": "#8cd6ca"
+        },
+        "variable": {
+            "foreground": "#c0c7e1"
+        },
+        "variable.definition": {
+            "foreground": "#c0c7e1"
+        },
+        "variable.declaration": {
+            "foreground": "#c0c7e1"
+        },
+        "variable.readonly": {
+            "foreground": "#efab81"
+        },
+        "variable.builtin": {
+            "foreground": "#abb4f2"
+        },
+        "method": {
+            "foreground": "#edd7a6"
+        },
+        "method.definition": {
+            "foreground": "#edd7a6"
+        },
+        "property": {
+            "foreground": "#83acee"
+        },
+        "property.readonly": {
+            "foreground": "#83acee"
+        },
+        "parameter": {
+            "foreground": "#c0c7e1"
+        },
+        "parameter.definition": {
+            "foreground": "#f2cdcd"
+        },
+        "parameter.declaration": {
+            "foreground": "#f2cdcd"
+        },
+        "decorator": {
+            "foreground": "#f5c2e7"
+        },
+        "macro": {
+            "foreground": "#f5c2e7"
+        },
+        "enumMember": {
+            "foreground": "#8cd6ca"
+        },
+        "selfParameter": {
+            "foreground": "#c09deb"
+        },
+        "selfParameter.definition": {
+            "foreground": "#c09deb"
+        },
+        "selfParameter.declaration": {
+            "foreground": "#c09deb"
+        },
+        "clsParameter": {
+            "foreground": "#c09deb"
+        },
+        "clsParameter.definition": {
+            "foreground": "#c09deb"
+        },
+        "clsParameter.declaration": {
+            "foreground": "#c09deb"
+        },
+        "selfKeyword": {
+            "foreground": "#c09deb"
+        },
+        "selfTypeKeyword": {
+            "foreground": "#c09deb"
+        },
+        "const": {
+            "foreground": "#efab81"
+        }
+    },
     "tokenColors": [
         {
             "scope": [
@@ -292,7 +389,7 @@
                 "keyword.operator"
             ],
             "settings": {
-                "foreground": "#e783a0"
+                "foreground": "#83acee"
             }
         },
         {
@@ -330,38 +427,12 @@
             }
         },
         {
-            "scope": "meta.function.call entity.name.function",
-            "settings": {
-                "foreground": "#83acee"
-            }
-        },
-        {
-            "scope": "meta.function.call entity.name.function.member",
-            "settings": {
-                "foreground": "#83acee"
-            }
-        },
-        {
             "scope": [
                 "entity.name.function",
                 "support.function"
             ],
             "settings": {
                 "foreground": "#edd7a6"
-            }
-        },
-        {
-            "scope": "entity.name.function.member",
-            "settings": {
-                "foreground": "#edd7a6"
-            }
-        },
-        {
-            "scope": [
-                "entity.name.function.call"
-            ],
-            "settings": {
-                "foreground": "#8cd6ca"
             }
         },
         {
@@ -399,8 +470,23 @@
         {
             "scope": [
                 "entity.name.type",
-                "support.type",
-                "storage.type.class"
+                "support.type"
+            ],
+            "settings": {
+                "foreground": "#8cd6ca"
+            }
+        },
+        {
+            "scope": [
+                "meta.function.decorator support.type"
+            ],
+            "settings": {
+                "foreground": "#f5c2e7"
+            }
+        },
+        {
+            "scope": [
+                "entity.other.inherited-class"
             ],
             "settings": {
                 "foreground": "#8cd6ca"
@@ -425,15 +511,6 @@
         },
         {
             "scope": [
-                "entity.name.class",
-                "entity.other.inherited-class"
-            ],
-            "settings": {
-                "foreground": "#f2cdcd"
-            }
-        },
-        {
-            "scope": [
                 "variable"
             ],
             "settings": {
@@ -443,7 +520,14 @@
         {
             "scope": [
                 "variable.language.this",
-                "variable.language.self"
+                "variable.language.self",
+                "variable.language.cls",
+                "variable.language.special.this",
+                "variable.language.special.self",
+                "variable.language.special.cls",
+                "variable.parameter.function.language.special.this",
+                "variable.parameter.function.language.special.self",
+                "variable.parameter.function.language.special.cls"
             ],
             "settings": {
                 "foreground": "#c09deb"
@@ -459,6 +543,14 @@
         },
         {
             "scope": [
+                "variable.parameter.function-call"
+            ],
+            "settings": {
+                "foreground": "#abb4f2"
+            }
+        },
+        {
+            "scope": [
                 "variable.other.member",
                 "variable.other.property"
             ],
@@ -468,8 +560,7 @@
         },
         {
             "scope": [
-                "support.variable",
-                "variable.other.readwrite.instance"
+                "support.variable"
             ],
             "settings": {
                 "foreground": "#c09deb"
@@ -552,11 +643,10 @@
                 "meta.annotation variable.function",
                 "meta.annotation variable.annotation.function",
                 "meta.annotation punctuation.definition.annotation",
-                "meta.decorator",
                 "punctuation.decorator"
             ],
             "settings": {
-                "foreground": "#8cd6ca"
+                "foreground": "#f5c2e7"
             }
         }
     ]
