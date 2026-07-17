@@ -1,9 +1,9 @@
 {
-    "name": "pastel-night",
-    "displayName": "Pastel Night",
+    "name": "pastel-night-theme",
+    "displayName": "Pastel Night Theme",
     "publisher": "leolorenzato",
     "description": "🌃 Color theme with night vibes and pastel lights",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "engines": {
         "vscode": "^1.125.0"
     },
@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pastel Night",
+                "label": "Pastel Night Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pastel-night-color-theme.json"
             }
