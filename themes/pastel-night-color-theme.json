@@ -87,7 +87,6 @@
         "list.errorForeground": "#e783a0",
         "list.warningForeground": "#edd7a6",
         "list.focusOutline": "#0c0c1200",
-        "list.focusAndSelectionBackground": "#2b2d3d",
         "menu.background": "#14141f",
         "menu.border": "#0c0c12",
         "menu.foreground": "#c0c7e1",
