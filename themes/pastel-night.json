@@ -141,7 +141,7 @@
         "terminal.ansiGreen": "#9ad395",
         "terminal.ansiYellow": "#edd7a6",
         "terminal.ansiBlue": "#83acee",
-        "terminal.ansiMagenta": "#f5c2e7",
+        "terminal.ansiMagenta": "#ebb9dd",
         "terminal.ansiCyan": "#8cd6ca",
         "terminal.ansiWhite": "#9da3bd",
         "terminal.ansiBrightBlack": "#3d3f4f",
@@ -149,7 +149,7 @@
         "terminal.ansiBrightGreen": "#9ad395",
         "terminal.ansiBrightYellow": "#edd7a6",
         "terminal.ansiBrightBlue": "#83acee",
-        "terminal.ansiBrightMagenta": "#f5c2e7",
+        "terminal.ansiBrightMagenta": "#ebb9dd",
         "terminal.ansiBrightCyan": "#8cd6ca",
         "terminal.ansiBrightWhite": "#9da3bd",
         "input.background": "#14141f",
@@ -195,7 +195,7 @@
         "scmGraph.historyItemBaseRefColor": "#efab81",
         "scmGraph.historyItemRemoteRefColor": "#abb4f2",
         "scmGraph.foreground1": "#edd7a6",
-        "scmGraph.foreground2": "#f5c2e7",
+        "scmGraph.foreground2": "#ebb9dd",
         "scmGraph.foreground3": "#9ad395",
         "scmGraph.foreground4": "#abb4f2",
         "scmGraph.foreground5": "#8cd6ca",
@@ -280,10 +280,10 @@
             "foreground": "#ebc7c7"
         },
         "decorator": {
-            "foreground": "#f5c2e7"
+            "foreground": "#ebb9dd"
         },
         "macro": {
-            "foreground": "#f5c2e7"
+            "foreground": "#ebb9dd"
         },
         "enumMember": {
             "foreground": "#8cd6ca"
@@ -348,7 +348,7 @@
                 "constant.character.escape"
             ],
             "settings": {
-                "foreground": "#f5c2e7"
+                "foreground": "#ebb9dd"
             }
         },
         {
@@ -485,7 +485,7 @@
                 "meta.function.decorator support.type"
             ],
             "settings": {
-                "foreground": "#f5c2e7"
+                "foreground": "#ebb9dd"
             }
         },
         {
@@ -639,7 +639,7 @@
                 "punctuation.definition.directive"
             ],
             "settings": {
-                "foreground": "#f5c2e7"
+                "foreground": "#ebb9dd"
             }
         },
         {
@@ -650,7 +650,7 @@
                 "punctuation.decorator"
             ],
             "settings": {
-                "foreground": "#f5c2e7"
+                "foreground": "#ebb9dd"
             }
         }
     ]
