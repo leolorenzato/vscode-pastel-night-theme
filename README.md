@@ -1,9 +1,12 @@
-# 🌃 Pastel Night
+<p align="center">
+  <img src="./assets/pastel-night-icon.png" width="128" alt="Icon" />
+</p>
 
-![GitHub License](https://img.shields.io/github/license/leolorenzato/vscode-pastel-night-theme)
-![GitHub Release](https://img.shields.io/github/v/release/leolorenzato/vscode-pastel-night-theme)
+<h1 align="center">Pastel Night for <a href="https://code.visualstudio.com">VSCode</a></h1>
 
-**Pastel Night** theme for [Visual Studio Code](https://code.visualstudio.com/)
+Night vibes with pastel lights.
+
+## 📷 Preview
 
 ![Screenshot](./assets/pastel-night-theme-vscode-1.png)
 
