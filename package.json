@@ -26,5 +26,6 @@
     "bugs": {
         "url": "https://github.com/leolorenzato/vscode-pastel-night-theme/issues"
     },
-    "homepage": "https://github.com/leolorenzato/vscode-pastel-night-theme#readme"
+    "homepage": "https://github.com/leolorenzato/vscode-pastel-night-theme#readme",
+    "license": "MIT"
 }
