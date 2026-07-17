@@ -35,7 +35,7 @@
         "editorBracketHighlight.foreground4": "#8c91a8",
         "editorBracketHighlight.foreground5": "#8c91a8",
         "editorBracketHighlight.foreground6": "#8c91a8",
-        "editorBracketMatch.background": "#f2cdcd35",
+        "editorBracketMatch.background": "#ebc7c735",
         "editorBracketMatch.border": "#0c0c1200",
         "editorIndentGuide.background1": "#2b2d3d99",
         "editorIndentGuide.activeBackground1": "#3d3f4f",
@@ -182,9 +182,9 @@
         "scrollbarSlider.hoverBackground": "#65697d",
         "scrollbarSlider.activeBackground": "#65697d",
         "minimap.background": "#1e1e28",
-        "minimapSlider.background": "#f2cdcd15",
-        "minimapSlider.hoverBackground": "#f2cdcd25",
-        "minimapSlider.activeBackground": "#f2cdcd35",
+        "minimapSlider.background": "#ebc7c715",
+        "minimapSlider.hoverBackground": "#ebc7c725",
+        "minimapSlider.activeBackground": "#ebc7c735",
         "gitDecoration.addedResourceForeground": "#9ad395",
         "gitDecoration.deletedResourceForeground": "#e783a0",
         "gitDecoration.modifiedResourceForeground": "#edd7a6",
@@ -274,10 +274,10 @@
             "foreground": "#c0c7e1"
         },
         "parameter.definition": {
-            "foreground": "#f2cdcd"
+            "foreground": "#ebc7c7"
         },
         "parameter.declaration": {
-            "foreground": "#f2cdcd"
+            "foreground": "#ebc7c7"
         },
         "decorator": {
             "foreground": "#f5c2e7"
@@ -542,7 +542,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#f2cdcd"
+                "foreground": "#ebc7c7"
             }
         },
         {
@@ -603,7 +603,7 @@
                 "markup.bold"
             ],
             "settings": {
-                "foreground": "#f2cdcd",
+                "foreground": "#ebc7c7",
                 "fontStyle": "bold"
             }
         },
@@ -612,7 +612,7 @@
                 "markup.italic"
             ],
             "settings": {
-                "foreground": "#f2cdcd"
+                "foreground": "#ebc7c7"
             }
         },
         {
