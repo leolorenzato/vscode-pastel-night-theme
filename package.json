@@ -4,7 +4,7 @@
     "description": "🌃 Night vibes with pastel lights",
     "version": "0.1.0",
     "engines": {
-        "vscode": "^1.80.0"
+        "vscode": "^1.125.0"
     },
     "categories": [
         "Themes"
@@ -14,8 +14,16 @@
             {
                 "label": "Pastel Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/pastel-night.json"
+                "path": "./themes/pastel-night-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leolorenzato/vscode-pastel-night-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/leolorenzato/vscode-pastel-night-theme/issues"
+    },
+    "homepage": "https://github.com/leolorenzato/vscode-pastel-night-theme#readme"
 }
