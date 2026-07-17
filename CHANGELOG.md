@@ -7,3 +7,7 @@
 ## [0.3.0]
 
 - Add icon
+
+## [0.4.0]
+
+- Rename theme
