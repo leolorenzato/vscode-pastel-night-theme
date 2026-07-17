@@ -2,7 +2,7 @@
     "name": "pastel-night",
     "displayName": "Pastel Night",
     "publisher": "leolorenzato",
-    "description": "🌃 Night vibes with pastel lights",
+    "description": "🌃 Color theme with night vibes and pastel lights",
     "version": "0.2.0",
     "engines": {
         "vscode": "^1.125.0"
