@@ -15,3 +15,7 @@
 ## [0.5.0]
 
 - Change namespace color, minor fix
+
+## [0.5.2]
+
+- Update changelog
