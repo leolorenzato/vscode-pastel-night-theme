@@ -227,6 +227,9 @@
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
+        "namespace": {
+            "foreground": "#abb4f2",
+        },
         "type": {
             "foreground": "#8cd6ca"
         },
@@ -443,7 +446,7 @@
                 "entity.name.method"
             ],
             "settings": {
-                "foreground": "#83acee"
+                "foreground": "#edd7a6"
             }
         },
         {
@@ -575,7 +578,7 @@
                 "storage.modifier.namespace"
             ],
             "settings": {
-                "foreground": "#c0c7e1"
+                "foreground": "#abb4f2"
             }
         },
         {
