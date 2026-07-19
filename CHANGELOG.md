@@ -11,3 +11,7 @@
 ## [0.4.0]
 
 - Rename theme
+
+## [0.5.0]
+
+- Change namespace color, minor fix
