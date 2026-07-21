@@ -212,6 +212,7 @@
         "peekViewEditor.background": "#1e1e28",
         "peekViewResult.background": "#1e1e28",
         "breadcrumb.foreground": "#9da3bd",
+        "breadcrumb.focusForeground": "#c0c7e1",
         "breadcrumb.activeSelectionForeground": "#c0c7e1",
         "breadcrumb.background": "#1e1e28",
         "quickInput.background": "#14141f",
