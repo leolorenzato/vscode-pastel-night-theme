@@ -258,7 +258,7 @@
             "foreground": "#efab81"
         },
         "variable.builtin": {
-            "foreground": "#abb4f2"
+            "foreground": "#c0c7e1"
         },
         "method": {
             "foreground": "#edd7a6"
