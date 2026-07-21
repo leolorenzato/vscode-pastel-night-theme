@@ -1,21 +1,36 @@
 # Change Log
 
-## [0.2.0]
+## [0.5.2]
 
-- Initial release
+- Change built-in variable color
+- Fix UI colors
+- Fix changelog
 
-## [0.3.0]
+## [0.5.1]
 
-- Add icon
-
-## [0.4.0]
-
-- Rename theme
+- Update changelog
 
 ## [0.5.0]
 
 - Change namespace color, minor fix
 
-## [0.5.1]
+## [0.4.0]
 
-- Update changelog
+- Rename theme
+
+## [0.3.0]
+
+- Add icon
+
+## [0.2.0]
+
+- Initial release
+
+
+
+
+
+
+
+
+
