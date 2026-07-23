@@ -191,6 +191,8 @@
         "gitDecoration.renamedResourceForeground": "#83acee",
         "gitDecoration.conflictingResourceForeground": "#efab81",
         "gitDecoration.ignoredResourceForeground": "#65697d",
+        "scmGraph.historyItemHoverDefaultLabelBackground": "#8c91a8",
+        "scmGraph.historyItemHoverDefaultLabelForeground": "#14141f",
         "scmGraph.historyItemRefColor": "#83acee",
         "scmGraph.historyItemBaseRefColor": "#efab81",
         "scmGraph.historyItemRemoteRefColor": "#abb4f2",
@@ -225,7 +227,9 @@
         "commandCenter.activeBorder": "#0c0c12",
         "extensionButton.prominentBackground": "#1e1e28",
         "extensionButton.prominentForeground": "#c0c7e1",
-        "button.secondaryBorder": "#0c0c12"
+        "button.secondaryBorder": "#0c0c12",
+        "textLink.activeForeground": "#83acee",
+        "textLink.foreground": "#83acee"
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
