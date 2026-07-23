@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.5.3]
+
+- Add some UI colors for the git graph
+- Add text link colors
+
 ## [0.5.2]
 
 - Change built-in variable color
