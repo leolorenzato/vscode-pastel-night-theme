@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.5.4]
+
+- Add some UI colors for the source control graph
+
 ## [0.5.3]
 
 - Add some UI colors for the git graph
