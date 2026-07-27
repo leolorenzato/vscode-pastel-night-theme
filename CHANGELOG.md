@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.5.5]
+
+- Fix editor link foreground color
+
 ## [0.5.4]
 
 - Add some UI colors for the source control graph
