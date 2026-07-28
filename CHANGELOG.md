@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.5.6]
+
+- Add progress bar background color
+
 ## [0.5.5]
 
 - Fix editor link foreground color
