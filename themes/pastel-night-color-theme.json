@@ -233,7 +233,8 @@
         "extensionButton.prominentForeground": "#c0c7e1",
         "button.secondaryBorder": "#0c0c12",
         "textLink.activeForeground": "#83acee",
-        "textLink.foreground": "#83acee"
+        "textLink.foreground": "#83acee",
+        "progressBar.background": "#83acee"
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {
