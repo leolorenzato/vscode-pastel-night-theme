@@ -8,7 +8,7 @@ Night vibes with pastel lights.
 
 ## 📷 Preview
 
-![Screenshot](./assets/pastel-night-theme-vscode-1.png)
+![Screenshot](https://raw.githubusercontent.com/leolorenzato/pastel-night/main/assets/pastel-night-theme-vscode.png)
 
 ## 🎨 Color Palette
 | Color | Hex |
