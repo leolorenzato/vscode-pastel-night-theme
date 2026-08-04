@@ -128,6 +128,7 @@
         "tab.activeForeground": "#c0c7e1",
         "tab.inactiveForeground": "#9da3bd",
         "tab.border": "#0c0c12",
+        "tab.activeBorderTop": "#0c0c1200",
         "editorGroup.border": "#0c0c12",
         "editorGroupHeader.tabsBackground": "#14141f",
         "panel.background": "#1e1e28",
