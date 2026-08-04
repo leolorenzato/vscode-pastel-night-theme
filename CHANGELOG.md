@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.5.7]
+
+- Add tab.activeBorderTop
+
 ## [0.5.6]
 
 - Add progress bar background color
