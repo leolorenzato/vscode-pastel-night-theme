@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.5.8]
+
+- Fix input validation colors
+
 ## [0.5.7]
 
 - Add tab.activeBorderTop
