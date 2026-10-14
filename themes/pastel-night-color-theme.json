@@ -5,6 +5,7 @@
         "focusBorder": "#0c0c12",
         "foreground": "#c0c7e1",
         "disabledForeground": "#65697d",
+        "surface.border": "#0c0c12",
         "widget.shadow": "#0c0c1200",
         "widget.border": "#0c0c12",
         "selection.background": "#8c91a866",
@@ -13,6 +14,7 @@
         "icon.foreground": "#9da3bd",
         "window.activeBorder": "#0c0c12",
         "window.inactiveBorder": "#0c0c12",
+        "editor.border": "#0c0c12",
         "editor.background": "#1e1e28",
         "editor.foreground": "#c0c7e1",
         "editor.findMatchBackground": "#ebc7c766",
@@ -235,7 +237,11 @@
         "button.secondaryBorder": "#0c0c12",
         "textLink.activeForeground": "#83acee",
         "textLink.foreground": "#83acee",
-        "progressBar.background": "#83acee"
+        "progressBar.background": "#83acee",
+        "chat.requestBorder": "#0c0c12",
+        "inlineChat.border": "#0c0c12",
+        "modernPanel.border": "#0c0c12",
+        "agentsPanel.border": "#0c0c12",
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {

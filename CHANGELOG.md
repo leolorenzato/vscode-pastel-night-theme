@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.6.0]
+
+- Add modern UI border colors
+
 ## [0.5.8]
 
 - Fix input validation colors
